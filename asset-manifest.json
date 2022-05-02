@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b5edc0fe.css",
-    "main.js": "/static/js/main.d3e84456.js",
+    "main.js": "/static/js/main.058831fe.js",
     "static/js/787.40f9b525.chunk.js": "/static/js/787.40f9b525.chunk.js",
     "static/media/France OutBound OutBound Flight distribution.svg": "/static/media/France OutBound OutBound Flight distribution.5f764396266a89ebcfb5.svg",
     "static/media/Canada InBound Flight distribution.svg": "/static/media/Canada InBound Flight distribution.5f5c7d2efb9aa1a02705.svg",
@@ -36,11 +36,11 @@
     "static/media/university-of-illinois-at-urbana-champaign-logo-vector.svg": "/static/media/university-of-illinois-at-urbana-champaign-logo-vector.b4e048f864e085771b477c08edc70caf.svg",
     "index.html": "/index.html",
     "main.b5edc0fe.css.map": "/static/css/main.b5edc0fe.css.map",
-    "main.d3e84456.js.map": "/static/js/main.d3e84456.js.map",
+    "main.058831fe.js.map": "/static/js/main.058831fe.js.map",
     "787.40f9b525.chunk.js.map": "/static/js/787.40f9b525.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5edc0fe.css",
-    "static/js/main.d3e84456.js"
+    "static/js/main.058831fe.js"
   ]
 }
