@@ -4,18 +4,18 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { DataProvider } from "./contexts/data.context";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, HashRouter } from "react-router-dom";
 import { ImageProvider } from "./contexts/image.context";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <ImageProvider>
         <DataProvider>
           <App />
         </DataProvider>
       </ImageProvider>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
