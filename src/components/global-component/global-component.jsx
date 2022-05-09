@@ -27,8 +27,8 @@ const GlobalGraph = () => {
         arcDashInitialGap={() => Math.random()}
         arcDashAnimateTime={4000}
         arcColor={(d) => [
-          `rgba(0, 255, 0, ${OPACITY})`,
-          `rgba(255, 0, 0, ${OPACITY})`,
+          `rgba(0, 255, 255, ${OPACITY})`,
+          `rgba(255, 255, 0, ${OPACITY})`,
         ]}
         arcsTransitionDuration={0}
         pointsData={airports}
